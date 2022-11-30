@@ -1,0 +1,10 @@
+[TRACE] 2022-11-29 17:47:44.179 [main] log4j - this is trace msg
+[INFO ] 2022-11-29 17:47:44.184 [main] log4j - this is info msg
+[ERROR] 2022-11-29 17:47:44.185 [main] log4j - this is error msg
+[WARN ] 2022-11-29 17:47:44.185 [main] log4j - this is warning msg
+[FATAL] 2022-11-29 17:47:44.185 [main] log4j - this is fatal msg
+[TRACE] 2022-11-29 17:50:54.583 [main] log4j - this is trace msg
+[INFO ] 2022-11-29 17:50:54.589 [main] log4j - this is info msg
+[ERROR] 2022-11-29 17:50:54.589 [main] log4j - this is error msg
+[WARN ] 2022-11-29 17:50:54.590 [main] log4j - this is warning msg
+[FATAL] 2022-11-29 17:50:54.590 [main] log4j - this is fatal msg
